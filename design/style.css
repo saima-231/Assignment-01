@@ -1,0 +1,35 @@
+.btn-primary {
+  color: #ffffff;
+  background-color: #4e47ff;
+  border: none;
+  border-radius: 8px;
+  padding: 5px 15px;
+}
+
+.btn-primary {
+  background-color: black;
+}
+
+.header-part {
+  background-image: url(../Assets/Hero-bg.png);
+  height: 600px;
+}
+
+.nav-title {
+  padding-top: 30px;
+  margin-left: 220px;
+  margin-right: 220px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 90px;
+}
+
+.logo {
+  color: #4e47ff;
+  font-weight: bolder;
+}
+.banner-part {
+  text-align: center;
+  padding-bottom: 200px;
+}
