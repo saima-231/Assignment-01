@@ -179,7 +179,7 @@
 .focus-img img {
     border-radius: 30px;
     width: 50%;
-    margin-left: 400px;
+    margin-left: 300px;
 }
 
 /* form-section */
@@ -268,5 +268,5 @@ footer {
     display: flex;
     justify-content: space-around;
     width: 60%;
-    margin-left: 300px;
+    margin-left: 200px;
 }
