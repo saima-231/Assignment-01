@@ -141,3 +141,24 @@ margin-right: 0px;
     width: 50%;
 }
 
+.title{
+    font-size: 18px;
+    font-weight: medium;
+    margin-bottom: 5px;
+}
+
+.form-start input[type="text"],
+
+.form-start input[type="email"],
+
+.form-start textarea {
+    height: 64px;
+    border-radius: 5px;
+    background-color: #F2EDED;
+    display: block;
+    width: 100%;
+    padding: 10px 20px;
+    margin-bottom: 24px;
+    border: none;
+}
+
