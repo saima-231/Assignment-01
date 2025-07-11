@@ -33,3 +33,64 @@
   text-align: center;
   padding-bottom: 200px;
 }
+
+.banner-part h2 {
+  font-size: 65px;
+  font-weight: bold;
+}
+
+.Action-part {
+  display: flex;
+  justify-content: space-between;
+  margin: 100px 120px;
+  align-items: center;
+  gap: 130px;
+}
+
+.action-title {
+  font-size: 42px;
+  font-weight: bold;
+  color: #252432;
+}
+
+.action-description {
+  font-size: 24px;
+  color: rgba(37, 36, 50, 50%);
+}
+
+.action-image img {
+  border-radius: 48px;
+  height: 300px;
+  width: 380px;
+}
+
+.comment-section {
+    margin: 10px 120px;
+}
+
+.user-comment-title {
+    text-align: center;
+    font-size: 42px;
+    font-weight: bold;
+}
+
+.first-comment {
+    padding: 24px;
+    background-color: #F2EDED;
+    border-radius: 14px;
+}
+
+.avatar-part {
+    display: flex;
+    gap: 5px;
+}
+
+.avatar-part img {
+    border-radius: 50%;
+}
+
+.user-comment {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
